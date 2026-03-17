@@ -22,5 +22,14 @@ This project is a temperature conversion program that converts temperature value
 3. Enter temperature value and unit
 4. View the converted results
 
+### Sample Output
+
+Enter temperature: 25  
+Select unit (C/F/K): C  
+
+Converted Temperatures:  
+Fahrenheit: 77.0  
+Kelvin: 298.15
+
 ### Author
 Bhavya Sai Gatta
